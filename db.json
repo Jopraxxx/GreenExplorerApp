@@ -1,0 +1,30 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "name": "Emerald Forest",
+        "description": "A dense forest with vibrant green trees and wildlife.",
+        "location": "Highland Park, Colorado",
+        "activities": ["Hiking", "Bird Watching", "Photography"],
+        "image": "/public/images/green1.jpg"s
+      },
+      {
+        "id": 2,
+        "name": "Crystal Lake",
+        "description": "A serene lake surrounded by towering pine trees.",
+        "location": "Lakeview, California",
+        "activities": ["Fishing", "Kayaking", "Picnic"],
+        "image": "/public/images/green1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Verdant Valley",
+        "description": "A lush valley with rolling hills and blooming flowers.",
+        "location": "Springfield, Oregon",
+        "activities": ["Camping", "Horseback Riding", "Nature Walks"],
+        "image": "/public/images/verdant_valley.jpg"
+      }
+     
+    ]
+  }
+  
